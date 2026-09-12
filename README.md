@@ -2,8 +2,11 @@
 
 
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
-- 🔭 Here's my [portfolio](https://vishwaportfolio99.netlify.app/)                                                 
+- 🔭 Here's my <a href="https://vishwaportfolio99.netlify.app/">portfolio</a>
+                                                 
 - 🌱 I’m currently learning DSA and Integrating AI to my workflow
+
+
 - Engineering at Jeppiaar institute of technology
 
 
@@ -21,9 +24,7 @@
 
 
 ### 💻 Workspace Spec
-<img height="30" src="https://img.shields.io/badge/ASUS_TUF-Ryzen_7-ED1C24?style=for-the-badge&logo=asus&logoColor=white"/>
-<img height="30" src="https://img.shields.io/badge/NVIDIA-RTX_3050-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
-<img height="30" src="https://img.shields.io/badge/AMD-Ryzen_7-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/>
+<img height="30" src="https://img.shields.io/badge/ASUS_TUF-Ryzen_7-ED1C24?style=for-the-badge&logo=asus&logoColor=white"/><img height="30" src="https://img.shields.io/badge/NVIDIA-RTX_3050-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/><img height="30" src="https://img.shields.io/badge/AMD-Ryzen_7-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/>
 
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/vishwaleetcode07?ext=contest&theme=dark)](https://leetcode.com/vishwaleetcode07)
