@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=220&section=header&text=VISHWA&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Aspiring%20Full%20Stack%20Developer%20%7C%20DSA%20Learner%20%7C%20AI%20Enthusiast&descSize=18&descAlignY=60" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,2&height=220&section=header&text=VISHWA&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Aspiring%20Full%20Stack%20Developer%20%7C%20DSA%20Learner%20%7C%20AI%20Enthusiast&descSize=18&descAlignY=60" width="100%" />
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1200&color=00D1FF&center=true&vCenter=true&width=600&lines=Building+Intelligent+Systems;Front+End+%2B+Back+End+%3D+Full+Stack;Solving+LeetCode+Every+Day;Turning+Ideas+Into+Reality" alt="Typing intro" />
@@ -55,10 +55,19 @@
   </tr>
 </table>
 
-## <code>> stats</code>
+## <code>> github engineering activity</code>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=vishwa99sk-spec&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vishwa99sk-spec&show_icons=true&rank_icon=github&theme=github_dark&hide_border=true&bg_color=0d1117&custom_title=Vishwa%27s%20GitHub%20Stats" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/vishwa99sk-spec/vishwa99sk-spec/main/languages.svg" alt="Languages I Use" />
+</p>
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=vishwa99sk-spec&show_icons=true&theme=tokyonight&hide_border=true" /></p>
+  <p align="center">
   <img height="170" src="https://streak-stats.demolab.com?user=vishwa99sk-spec&theme=tokyonight&hide_border=true" />
 </p>
 
@@ -86,6 +95,4 @@
 <h3 align="center"><code>BUILD • LEARN • SOLVE • IMPROVE • REPEAT</code></h3>
 
 <p align="center"><b>"Keep Calm and Keep Coding"</b></p>
-
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer&reversal=true" width="100%" />
